@@ -28,3 +28,7 @@ Main repository for the IoT bootstrap talk
 [Unity Server](https://github.com/iPomme/IoT_Drone_Server) (not yet deployed, 1 file too big for GitHub)
 
 [Deploy MQTT on Unity](http://blog.jorand.io/2017/08/02/MQTT-on-Unity/)
+
+## Buy it !
+
+[nicolas.jorand](https://nicolas.jorand.io/fr/sos/index.html)
