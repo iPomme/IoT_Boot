@@ -1,6 +1,11 @@
 # IoT_Boot
 Main repository for the IoT bootstrap talk
 
+# Folder structure
+./espruino : This folder will be opened with **Espruino web IDE**
+
+./node-red : Dashboard for node-red import
+
 # Usefull link
 
 ## Prezi
@@ -23,8 +28,3 @@ Main repository for the IoT bootstrap talk
 [Unity Server](https://github.com/iPomme/IoT_Drone_Server) (not yet deployed, 1 file too big for GitHub)
 
 [Deploy MQTT on Unity](http://blog.jorand.io/2017/08/02/MQTT-on-Unity/)
-
-# Folder structure
-./espruino : This folder needs to be opened with **Espruino web IDE**
-
-./node-red : Dashboard for node-red
